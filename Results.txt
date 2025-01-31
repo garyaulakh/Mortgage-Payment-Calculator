@@ -1,0 +1,12 @@
+PS C:\Users\garya> & C:/Users/garya/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Users/garya/FINE3300/Mortgage-Payment-Calculator/Mortgage.py
+Enter the principal amount: 500000
+Enter the quoted interest rate: 5.5
+Enter the amortization period: 25
+
+Mortgage Payment Breakdown:
+Monthly Payment: $3,051.96
+Semi-monthly Payment: $1,524.25
+Bi-weekly Payment: $1,406.88
+Weekly Payment: $703.07
+Rapid Bi-weekly Payment: $1,525.98
+Rapid Weekly Payment: $762.99
